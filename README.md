@@ -1,5 +1,5 @@
 # SubversionOS
-SubversionOS™ - The Thing That Hosts Maelstrom-Messaging™
+SubversionOS™ - The Enigma That Hosts The Magick Ov Maelstrom-Messaging™
 
 # Goal:
 To Build An Off-OS Quazi-SMS-Encryption System for Secure-End-To-End Encrypted Messaging Over Local TCP/IP Sockets Through Data-Packets
