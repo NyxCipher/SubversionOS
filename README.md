@@ -32,3 +32,6 @@ Note: We need two Custom MQTT Binaries - Both Client & Server to be ready to rec
 Note: We need a custom Kernel to sit inside a 2nd Type-1 Hypervisor.
 
 Note: Maybe we should use a VirtualUSB instead of a vCOM or 8570 comm. channel.
+
+# Speculative:
+Can we reassign ownership permission of the Wireless.c kernel library from MainOS to SubversionOS?
