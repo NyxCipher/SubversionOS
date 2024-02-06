@@ -8,7 +8,7 @@ To Build An Off-OS Quazi-SMS-Encryption System for Secure-End-To-End Encrypted M
 Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 
 # SubversionOS - Telemetry Theory:
-1. Snapdragon Mobile CPU
+1. Snapdragon Mobile
 2. Gunyah Base
 3. Two Type-1 Hypervisors
 4. One AnyOS on Android Kernel
