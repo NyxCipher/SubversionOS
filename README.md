@@ -8,7 +8,7 @@ To Build An Off-OS SMS-Encryption System for Secure-End-To-End Encrypted Messagi
 Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 
 # SubversionOS - Telemetry Theory:
-1. Snapdragon Mobile
+1. A Mobile Processor The Can Handle
 2. Gunyah Base
 3. Two Type-1 Hypervisors
 4. One AnyOS on Android Kernel
