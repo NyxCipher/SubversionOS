@@ -57,3 +57,6 @@ Note: Maybe we should use a VirtualUSB instead of a vCOM or 8570 comm. channel.
 
 # Speculative:
 Can we reassign ownership permission of the Wireless.c kernel library from MainOS to SubversionOS?
+
+# Ideas:
+Somehow store the message in The 2nd OS in a MailBox System. Once message is picked up, storage is cleared.
