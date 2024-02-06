@@ -10,6 +10,7 @@ Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 # Suspected Issues:
 We may run into several Key+Sharing Issues. Ideally we employ and encrypt ZK+Proofs Off OS along side on SubversionOS. (Note: My Nemesis=ZK+Proofs).
 
+# Maelstrom-Messaging™
 **Conceptual Model**
 1. Layer 7 UI - User Enters Message x is Plain Text
 2. MSG Encrypted with Key One & Dropped Down into Kernel
