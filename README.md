@@ -7,6 +7,24 @@ To Build An Off-OS Quazi-SMS-Encryption System for Secure-End-To-End Encrypted M
 # Step One:
 Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 
+# SubversionOS - Telemetry Theory:
+1. Snapdragon Mobile CPU
+2. Gunyah Base
+3. Two Type-1 Hypervisors
+4. One NothingOS on Android Kernel
+5. Two SubversiveOS on Custom Kernel
+6. Both Kernels need to open 8570.c For Hardware COMM communications or a USB Connection
+7. SubversionOS hosts: MQTT Client & Server for Tunnel.c connection
+8. We Connack between Kernel 1 and Kernel 2
+9. We execute CryptoC++ Binaries
+10. We transmit data over tunnel between Hypervisor via custom DataPackets
+11. See AMT as example for OSI-Seven Layer Communication Transportation.
+
+Note: We definitely can look into making use of TEE and AI to help.
+
+Note: One of my Mind Expirments lead me to an issue where we may need to use and address RAM directly. However we must try and maining all operations on the Core-Dragon. Maybe we can explore the L2 and L3 cache? Unsure here.
+
+
 # Suspected Issues:
 We may run into several Key+Sharing Issues. Ideally we employ and encrypt ZK+Proofs Off OS along side on SubversionOS. (Note: My Nemesis=ZK+Proofs).
 
