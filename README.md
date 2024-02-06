@@ -20,6 +20,9 @@ Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 10. We transmit data over tunnel between Hypervisor via custom DataPackets
 11. See AMT as example for OSI-Seven Layer Communication Transportation.
 
+Note: Auto Connection?
+Note: Accept Connection?
+
 Note: We definitely can look into making use of TEE and AI to help.
 
 Note: One of my Mind Expirments lead me to an issue where we may need to use and address RAM directly. However we must try and maining all operations on the Core-Dragon. Maybe we can explore the L2 and L3 cache? Unsure here.
