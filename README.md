@@ -11,7 +11,7 @@ Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 1. Snapdragon Mobile CPU
 2. Gunyah Base
 3. Two Type-1 Hypervisors
-4. One NothingOS on Android Kernel
+4. One AnyOS on Android Kernel
 5. Two SubversiveOS on Custom Kernel
 6. Both Kernels need to open 8570.c For Hardware COMM communications or a USB Connection
 7. SubversionOS hosts: MQTT Client & Server for Tunnel.c connection
