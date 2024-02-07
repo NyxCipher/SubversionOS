@@ -20,7 +20,7 @@ Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 4. One AnyOS on Android Kernel
 5. Two SubversiveOS on Custom Kernel
 6. Both Kernels need to open 8570.c For Hardware COMM communications or a USB Connection
-7. SubversionOS hosts: MQTT Client & Server for Tunnel.c connection
+7. SubversionOS hosts: Low-Level Comms Client & Server for Tunnel.c connection
 8. We Connack between Kernel 1 and Kernel 2
 9. We execute CryptoC++ Binaries
 10. We transmit data over tunnel between Hypervisor via custom DataPackets
