@@ -20,7 +20,6 @@ Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
 8. We Connack between Kernel 1 and Kernel 2
 9. We execute CryptoC++ Binaries
 10. We transmit data over tunnel between Hypervisor via custom DataPackets
-11. See AMT as example for OSI-Seven Layer Communication Transportation.
 
 Note: Auto Connection?
 
