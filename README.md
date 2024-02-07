@@ -55,7 +55,7 @@ We may run into several Key+Sharing Issues. Ideally we employ and encrypt ZK+Pro
 13. Msg X Exposed in SubversionOS off Main Kernel
 14. Transport Local Key Engaged to send over and up to Layer 7 as it is decrypted at App level for End User UI in Plain Text
 
-Note: We need two Custom MQTT Binaries - Both Client & Server to be ready to receive and transmit messages for Enc & Dec.
+Note: We need two Custom LLM Binaries - Both Client & Server to be ready to receive and transmit messages for Enc & Dec.
 
 Note: We need a custom Kernel to sit inside a 2nd Type-1 Hypervisor.
 
