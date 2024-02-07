@@ -4,12 +4,8 @@ SubversionOS™ - The Enigma That Hosts The Magick Ov Maelstrom-Messaging™
 # Goal:
 To Build An Off-OS SMS-Encryption System for Secure-End-To-End Encrypted Messaging Over Local TCP/IP Sockets Through Data-Packets
 
-# An Issue:
-1. I need to develop an .APK
-2. It has to reach past Root
-3. I'm going to need an update from a Repo
-4. I'm going to need a native plant
-5. I'm going to need to build my own Phone
+# "Do Or Do Not, There Is No Try"
+1. Package an APK that can communicate properly with the LLMs.
 
 # Step One:
 Ascertain Plausability Of The 7-Steps* Of Execution Needed for ( 72424-42427 )
